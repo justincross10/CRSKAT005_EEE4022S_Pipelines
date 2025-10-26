@@ -1,0 +1,1 @@
+This repsoitory contains all the pipelines created for either the IPM-165 or K-LC7 radar modules for the developemnt of a radar based sports ball tracking demonstrator as part of the EEE4022S final research project at the University of Cape Town.
